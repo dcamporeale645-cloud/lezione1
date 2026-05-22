@@ -71,7 +71,7 @@ numeri_primi_minori_di_10: list  = [2,3,5,7]
 # Matrice
 temperature: list = [
     [18,22,25],    # Temp. Minime Weekend
-    [28,31,34]    #T emp. Massime Weekend
+    [28,31,34]     # Temp. Massime Weekend
 ]
 
 # Dizionario
