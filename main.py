@@ -45,3 +45,44 @@ dato: int = 100
 dato: bool = True
 dato: list = []
 print (dato)
+
+#----------------------------------------
+# Variabili Primitive
+
+# Stringa
+nome: str = "Diego"
+
+# Intero
+eta: int = 31
+
+# Decimale
+altezza: float = 1.70
+
+print (nome)
+print (eta)
+print (altezza)
+
+#------------------------------------
+# Variabili Complesse
+
+# Lista
+numeri_primi_minori_di_10: list  = [2,3,5,7]
+
+# Matrice
+temperature: list = [
+    [18,22,25],    # Temp. Minime Weekend
+    [28,31,34]    #T emp. Massime Weekend
+]
+
+# Dizionario
+candidato: dict = {
+    "nome": "Diego",     # Stringa
+    "eta": 29,            # Intero
+    "musicista": True    # Booleano
+}
+
+print (numeri_primi_minori_di_10)
+print (temperature)
+print (candidato)
+
+
